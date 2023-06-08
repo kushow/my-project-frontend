@@ -13,7 +13,6 @@ haha Hub is a web application built with React that allows you to create jokes u
 To run the application locally, you need to have Node.js and npm installed on your machine. You also need to have the Meme Generator API backend running on http://localhost:3000.
 
 Clone this repository and navigate to the project directory:
-
       git clone https://github.com/your-username/funny-hub.git 
 
  navigate to the project directory
