@@ -1,7 +1,7 @@
 # my-project-frontend
 # Haha Hub - Meme Generator
 
-funny Hub is a web application built with React that allows you to create jokes using dad jokes format. It consumes the API provided by the Meme Generator API backend to fetch jokes templates and generate new jokes.
+haha Hub is a web application built with React that allows you to create jokes using dad jokes format. It consumes the API provided by the Meme Generator API backend to fetch jokes templates and generate new jokes.
 
 ## Features
  - Browse all jokes
