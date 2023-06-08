@@ -1,5 +1,5 @@
 import {  Link } from "react-router-dom"
-import profile from "../images/images/laugh.jpg"
+import profile from "../images/userimg.png"
 
 const Navbar = ({isAuthenticated, handleLogout, username}) => {
 
