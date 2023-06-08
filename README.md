@@ -32,6 +32,9 @@ Start the development server:
 
 Note: If the Meme Generator API backend is not running on http://localhost:9292, you need to update the REACT_APP_API_URL variable in the .env file to match the actual backend URL.
 
+# Backend
+the backend link repo for this project is here https://github.com/kushow/phase-3-sinatra-react-project.git
+
 ## Dependencies
 
 Haha Hub depends on the following libraries and tools:
